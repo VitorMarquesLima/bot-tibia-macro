@@ -1,0 +1,54 @@
+{
+    "cd": "35.61",
+    "combo": [
+        {
+            "key": "f4",
+            "ms": "25000",
+            "priority": true,
+            "2x": false,
+            "2x_ms": ""
+        },
+        {
+            "key": "f5",
+            "ms": "8000",
+            "priority": true,
+            "2x": true,
+            "2x_ms": "1"
+        },
+        {
+            "key": "f6",
+            "ms": "1",
+            "priority": false,
+            "2x": false,
+            "2x_ms": "1"
+        },
+        {
+            "key": "f7",
+            "ms": "1",
+            "priority": false,
+            "2x": false,
+            "2x_ms": "1"
+        },
+        {
+            "key": "f8",
+            "ms": "1",
+            "priority": false,
+            "2x": false,
+            "2x_ms": "1"
+        },
+        {
+            "key": "f9",
+            "ms": "1",
+            "priority": false,
+            "2x": false,
+            "2x_ms": "1"
+        },
+        {
+            "key": "f10",
+            "ms": "1",
+            "priority": false,
+            "2x": false,
+            "2x_ms": "1"
+        }
+    ]
+}
